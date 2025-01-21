@@ -170,3 +170,4 @@ C:\Users\kalipso\source\repos\API\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\S
 C:\Users\kalipso\source\repos\API\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\kalipso\source\repos\API\API\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\kalipso\source\repos\API\API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\kalipso\source\repos\API\API\obj\Debug\net8.0\API.sourcelink.json
