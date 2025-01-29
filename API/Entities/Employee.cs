@@ -45,6 +45,8 @@ public partial class Employee
 
     public virtual Department? Department { get; set; }
 
+    public virtual ICollection<EventEmployee> EventEmployees { get; set; } = new List<EventEmployee>();
+
     public virtual ICollection<Employee> InverseAssistant { get; set; } = new List<Employee>();
 
     public virtual ICollection<Employee> InverseSupervisor { get; set; } = new List<Employee>();

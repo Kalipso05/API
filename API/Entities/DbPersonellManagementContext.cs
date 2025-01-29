@@ -33,6 +33,10 @@ public partial class DbPersonellManagementContext : DbContext
 
     public virtual DbSet<Event> Events { get; set; }
 
+    public virtual DbSet<EventEmployee> EventEmployees { get; set; }
+
+    public virtual DbSet<EventEmployeeType> EventEmployeeTypes { get; set; }
+
     public virtual DbSet<EventStatus> EventStatuses { get; set; }
 
     public virtual DbSet<EventType> EventTypes { get; set; }
@@ -206,6 +210,29 @@ public partial class DbPersonellManagementContext : DbContext
             entity.HasOne(d => d.EventType).WithMany(p => p.Events)
                 .HasForeignKey(d => d.EventTypeId)
                 .HasConstraintName("FK__Events__EventTyp__6477ECF3");
+        });
+
+        modelBuilder.Entity<EventEmployee>(entity =>
+        {
+            entity.ToTable("EventEmployee");
+
+            entity.Property(e => e.EmployeeId).HasColumnName("EmployeeID");
+            entity.Property(e => e.EventEmployeeTypeId).HasColumnName("EventEmployeeTypeID");
+
+            entity.HasOne(d => d.Employee).WithMany(p => p.EventEmployees)
+                .HasForeignKey(d => d.EmployeeId)
+                .HasConstraintName("FK_EventEmployee_Employees");
+
+            entity.HasOne(d => d.EventEmployeeType).WithMany(p => p.EventEmployees)
+                .HasForeignKey(d => d.EventEmployeeTypeId)
+                .HasConstraintName("FK_EventEmployee_EventEmployeeType");
+        });
+
+        modelBuilder.Entity<EventEmployeeType>(entity =>
+        {
+            entity.ToTable("EventEmployeeType");
+
+            entity.Property(e => e.Title).HasMaxLength(50);
         });
 
         modelBuilder.Entity<EventStatus>(entity =>

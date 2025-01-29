@@ -34,5 +34,38 @@ namespace API.Controllers
                 return Ok(employeeModels); // Возвращаем результат
             }
         }
+
+        [HttpPatch]
+        public async Task<ActionResult> PatchEmployee(EmployeeRequest request)
+        {
+            using (var db = new DbPersonellManagementContext())
+            {
+                if (request == null)
+                {
+                    return BadRequest("Переданы неверные данные");
+                }
+
+                var existingEmployee = await db.Employees.FirstOrDefaultAsync(e => e.EmployeeId == request.EmployeeId);
+                if (existingEmployee == null)
+                {
+                    return NotFound("Сотрудник не найден");
+                }
+
+                existingEmployee.FirstName = request.FirstName;
+                existingEmployee.LastName = request.LastName;
+                existingEmployee.Email = request.Email;
+                existingEmployee.Office = request.Office;
+                existingEmployee.PositionId = request.PositionId;
+                existingEmployee.DepartmentId = request.DepartmentId;
+                existingEmployee.SupervisorId = request.SupervisorId;
+                existingEmployee.AssistantId = request.AssistantId;
+                existingEmployee.BirthDate = request.BirthDate;
+                existingEmployee.WorkPhone = request.WorkPhone;
+                existingEmployee.AdditionalInfo = request.AdditionalInfo;
+                existingEmployee.MobilePhone = request.MobilePhone;
+                await db.SaveChangesAsync();
+                return Ok("Данные сотрудника изменены!");
+            }
+        }
     }
 }

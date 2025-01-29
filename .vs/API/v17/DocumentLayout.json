@@ -3,20 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\kalipso\\source\\repos\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\controllers\\eventemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\controllers\\eventemployeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\models\\eventemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\models\\eventemployeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\entities\\eventemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\entities\\eventemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\models\\eventemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\models\\eventemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\models\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\models\\employeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\entities\\dbpersonellmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\entities\\dbpersonellmanagementcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\controllers\\positioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -35,10 +63,6 @@
       "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\models\\eventmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|c:\\users\\kalipso\\source\\repos\\api\\api\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{230D4297-EC1B-44AF-9B91-99E5AB79C381}|API\\API.csproj|solutionrelative:api\\entities\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,23 +78,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PositionController.cs",
-              "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Controllers\\PositionController.cs",
-              "RelativeDocumentMoniker": "API\\Controllers\\PositionController.cs",
-              "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Controllers\\PositionController.cs",
-              "RelativeToolTip": "API\\Controllers\\PositionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "EventEmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Models\\EventEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "API\\Models\\EventEmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Models\\EventEmployeeRequest.cs",
+              "RelativeToolTip": "API\\Models\\EventEmployeeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T12:26:49.156Z"
+              "WhenOpened": "2025-01-29T01:20:57.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EventEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Entities\\EventEmployee.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\EventEmployee.cs",
+              "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Entities\\EventEmployee.cs",
+              "RelativeToolTip": "API\\Entities\\EventEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:59:44.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventEmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Models\\EventEmployeeModel.cs",
+              "RelativeDocumentMoniker": "API\\Models\\EventEmployeeModel.cs",
+              "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Models\\EventEmployeeModel.cs",
+              "RelativeToolTip": "API\\Models\\EventEmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:59:37.802Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EventEmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Controllers\\EventEmployeeController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\EventEmployeeController.cs",
+              "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Controllers\\EventEmployeeController.cs",
+              "RelativeToolTip": "API\\Controllers\\EventEmployeeController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T00:59:25.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DepartmentController.cs",
               "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Controllers\\DepartmentController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\DepartmentController.cs",
@@ -83,31 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Program.cs",
-              "RelativeDocumentMoniker": "API\\Program.cs",
-              "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Program.cs",
-              "RelativeToolTip": "API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T11:22:43.519Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "API.csproj",
-              "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\API.csproj",
-              "RelativeDocumentMoniker": "API\\API.csproj",
-              "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\API.csproj",
-              "RelativeToolTip": "API\\API.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-21T11:22:37.609Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\appsettings.json",
               "RelativeDocumentMoniker": "API\\appsettings.json",
@@ -119,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Entities\\Event.cs",
               "RelativeDocumentMoniker": "API\\Entities\\Event.cs",
@@ -131,7 +171,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 14,
               "Title": "EventModel.cs",
               "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Models\\EventModel.cs",
               "RelativeDocumentMoniker": "API\\Models\\EventModel.cs",
@@ -143,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 5,
               "Title": "EventController.cs",
               "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Controllers\\EventController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\EventController.cs",
@@ -151,23 +191,100 @@
               "RelativeToolTip": "API\\Controllers\\EventController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T07:06:16.309Z"
+              "WhenOpened": "2025-01-20T07:06:16.309Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "API\\Controllers\\EmployeeController.cs",
               "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Controllers\\EmployeeController.cs",
               "RelativeToolTip": "API\\Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA8AAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAwEAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T06:35:14.958Z"
+              "WhenOpened": "2025-01-20T06:35:14.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbPersonellManagementContext.cs",
+              "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Entities\\DbPersonellManagementContext.cs",
+              "RelativeDocumentMoniker": "API\\Entities\\DbPersonellManagementContext.cs",
+              "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Entities\\DbPersonellManagementContext.cs",
+              "RelativeToolTip": "API\\Entities\\DbPersonellManagementContext.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T21:47:59.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Models\\EmployeeRequest.cs",
+              "RelativeDocumentMoniker": "API\\Models\\EmployeeRequest.cs",
+              "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Models\\EmployeeRequest.cs",
+              "RelativeToolTip": "API\\Models\\EmployeeRequest.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T22:22:05.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "API\\Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "API\\Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T06:33:18.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "API.csproj",
+              "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\API.csproj",
+              "RelativeDocumentMoniker": "API\\API.csproj",
+              "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\API.csproj",
+              "RelativeToolTip": "API\\API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-21T11:22:37.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Program.cs",
+              "RelativeDocumentMoniker": "API\\Program.cs",
+              "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Program.cs",
+              "RelativeToolTip": "API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:22:43.519Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "PositionController.cs",
+              "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Controllers\\PositionController.cs",
+              "RelativeDocumentMoniker": "API\\Controllers\\PositionController.cs",
+              "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Controllers\\PositionController.cs",
+              "RelativeToolTip": "API\\Controllers\\PositionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T12:26:49.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "API\\Entities\\Employee.cs",
@@ -176,18 +293,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-20T06:33:24.15Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeModel.cs",
-              "DocumentMoniker": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Models\\EmployeeModel.cs",
-              "RelativeDocumentMoniker": "API\\Models\\EmployeeModel.cs",
-              "ToolTip": "C:\\Users\\kalipso\\source\\repos\\API\\API\\Models\\EmployeeModel.cs",
-              "RelativeToolTip": "API\\Models\\EmployeeModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-20T06:33:18.06Z"
             }
           ]
         }
